@@ -55,7 +55,7 @@ python manage.py runserver
 &nbsp; 
 <br>
 <p align="center">
-  Room Conversation
+  
 </p>
 <img src="AppScreenshot-1.png">
 </td> 
@@ -64,7 +64,7 @@ python manage.py runserver
 <p align="center">
   
 </p>
-<img src="">  
+<img src="ChatRoom.png">  
 </td>
 </table>
 
