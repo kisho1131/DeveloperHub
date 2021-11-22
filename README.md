@@ -1,2 +1,72 @@
 # DeveloperHub
  Collaborating Platform for Developer with Discuss Forum
+
+
+
+### Cloning the repository
+
+--> Clone the repository using the command below :
+```bash
+git clone https://github.com/kisho1131/DeveloperHub.git
+
+```
+
+--> Create a virtual environment :
+```bash
+# Let's install virtualenv first
+pip install virtualenv
+
+# Then we create our virtual environment
+virtualenv envname
+
+```
+
+--> Activate the virtual environment :
+```bash
+envname\scripts\activate
+
+```
+
+--> Install the requirements :
+```bash
+pip install -r requirements.txt
+
+```
+
+#
+
+### Running the App
+
+--> To run the App, we use :
+```bash
+python manage.py runserver
+
+```
+
+> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+
+#
+
+### App Preview :
+
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  
+</p>
+<img src="AppScreenshot-1.png">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  
+</p>
+<img src="ChatRoom.png">  
+</td>
+</table>
+
+
+
