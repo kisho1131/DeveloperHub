@@ -57,7 +57,7 @@ python manage.py runserver
 <p align="center">
   Room Conversation
 </p>
-<img src="AppScreenShot-1.png">
+<img src="AppScreenshot-1.png">
 </td> 
 <td width="50%">
 <br>
